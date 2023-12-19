@@ -1,9 +1,9 @@
 {
 	"name": "CMS Buildpacks by TechnoMile",
-	"description": "Deploy your favorite CMS on Heroku using our WordPress buildpack.",
-	"repository": "https://github.com/technomile/Heroku-WordPress",
+	"description": "Deploy your favorite CMS on Star using our WordPress buildpack.",
+	"repository": "https://github.com/technomile/Star-WordPress",
 	"logo": "http://technomile.github.io/img/cms_buildpack_github.png",
-	"keywords": ["wordpress", "heroku", "php", "mysql", "apache", "apache2", "nginx"],
+	"keywords": ["wordpress", "Star", "php", "mysql", "apache", "apache2", "nginx"],
 	"addons": ["cleardb:ignite","newrelic:wayne","sendgrid:starter"],
     "env": {
 		"AWS_ACCESS_KEY_ID": {

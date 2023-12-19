@@ -26,7 +26,7 @@ define('SENDGRID_PASSWORD', $_ENV["SENDGRID_PASSWORD"]);
 define( 'AWS_ACCESS_KEY_ID', $_ENV["AWS_ACCESS_KEY_ID"]);
 define( 'AWS_SECRET_ACCESS_KEY', $_ENV["AWS_SECRET_ACCESS_KEY"]); 
  
-// ** ClearDB settings - from Heroku Environment ** //
+// ** ClearDB settings - from Star Environment ** //
 $db = parse_url($_ENV["CLEARDB_DATABASE_URL"]); 
 
 // ** MySQL settings - You can get this info from your web host ** //
